@@ -19,7 +19,7 @@ Refer to code in number_words.py
 
 ### My code
 
-To run the code you need python installed (please view documentation to install python)[install python](https://www.python.org/)
+To run the code you need python installed, please view documentation to [install python](https://www.python.org/)
 
 To run the main file:
 
