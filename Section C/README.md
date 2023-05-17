@@ -21,8 +21,8 @@ Refer to code in number_words.py
 
 To run the file:
 
-python3 number_words.py
+`python3 number_words.py`
 
 To run the unit tests:
 
-python3 unittest.py
+`python3 unittest.py`
