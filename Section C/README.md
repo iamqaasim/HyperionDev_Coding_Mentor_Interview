@@ -17,14 +17,26 @@ Chalenge: [Say the Number](https://edabit.com/challenge/4E9gTrRWErpTCA2FQ)
 
 Refer to code in number_words.py
 
-### My code
+### Clone the repo
+
+in your terminal navigate to desired folder and execute the following command
+
+`git clone https://github.com/iamqaasim/HyperionDev_Coding_Mentor_Interview/tree/main`
+
+### Running the code
 
 To run the code you need python installed, please view documentation to [install python](https://www.python.org/)
 
-To run the main file:
+After cloning the repo, navigate to directory Section C:
+
+- To run the main file:
 
 `python3 number_words.py`
 
-To run the unit tests file:
+- To run the unit tests file:
 
 `python3 unittest.py`
+
+```
+
+```
