@@ -17,6 +17,11 @@ Chalenge: [Say the Number](https://edabit.com/challenge/4E9gTrRWErpTCA2FQ)
 
 Refer to code in number_words.py
 
+### Time and Space complexity
+
+The time complexity of the read_numeral() function is O(log N)
+The space complexity of the read_numeral() function is O(1)
+
 ### Clone the repo
 
 in your terminal navigate to desired folder and execute the following command
@@ -36,7 +41,3 @@ After cloning the repo, navigate to directory Section C:
 - To run the unit tests file:
 
 `python3 unittest.py`
-
-```
-
-```
